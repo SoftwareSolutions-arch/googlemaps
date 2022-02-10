@@ -29,7 +29,7 @@
     "cordova-android": "8.0.0",
     "cordova-plugin-geolocation": "4.0.1",
     "core-js": "^2.5.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.29"
   },
